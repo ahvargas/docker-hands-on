@@ -1,4 +1,16 @@
 [
     "index.md",
-    "instalar.md"
+    "precondiciones.md",
+    "hola-mundo.md",
+    "hola-mundo-2.md",
+    "hola-mundo-3.md",
+    "consultando-las-imagenes-disponibles.md",
+    "consultando-los-contendores.md",
+    "consusltando-todos-los-contenedores.md",
+    "buscando-imagenes.md",
+    "ejecutando-ubuntu.md",
+    "en-el-contenedor.md",
+    "el-uso-del-continer-id.md",
+    "obteniendo-informacion-del-contenedor.md",
+    "limpiando-imagenes.md"
 ]
