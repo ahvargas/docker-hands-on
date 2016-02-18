@@ -1,16 +1,46 @@
 [
     "index.md",
     "precondiciones.md",
-    "hola-mundo.md",
-    "hola-mundo-2.md",
-    "hola-mundo-3.md",
-    "consultando-las-imagenes-disponibles.md",
-    "consultando-los-contendores.md",
-    "consusltando-todos-los-contenedores.md",
+    [
+        "hola-mundo.md",
+        "hola-mundo-2.md",
+        "hola-mundo-3.md"
+    ],
+    [
+        "consultando-las-imagenes-disponibles.md",
+        "consultando-los-contendores.md",
+        "consusltando-todos-los-contenedores.md"
+    ],
     "buscando-imagenes.md",
     "ejecutando-ubuntu.md",
     "en-el-contenedor.md",
     "el-uso-del-continer-id.md",
     "obteniendo-informacion-del-contenedor.md",
-    "limpiando-imagenes.md"
+    "limpiando-imagenes.md",
+    "limpiando-contenedores.md",
+    [
+        "creando-imagenes.md",
+        "creando-imagenes-2.md",
+        "creando-imagenes-3.md",
+        "creando-imagenes-4.md"
+    ],
+    [
+        "dockerfile.md",
+        "dockerfile-2.md",
+        "dockerfile-3.md"
+    ],
+    "historia-de-las-imagenes.md",
+    [
+        "exponiendo-los-puertos-al-mundo.md",
+        "exponiendo-los-puertos-al-mundo-2.md"
+    ],
+    "mejorando-nuestro-dockerfile.md",
+    [
+        "ejecutando-varias-instancias.md",
+        "ejecutando-varias-instancias-2.md"
+    ],
+    [
+        "interactuando-con-los-contenedores.md",
+        "interactuando-con-los-contenedores-2.md"
+    ]
 ]

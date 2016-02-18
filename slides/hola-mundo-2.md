@@ -19,7 +19,7 @@ Digest: sha256:8be990ef2aeb16dbcb9271ddfe2610fa6658d13f6dfb8bc72074cc1ca36966a7
 Status: Downloaded newer image for hello-world:latest
 .......
 ```
-
+<!-- .element: class="fragment"  -->
 - Busca primero si tenemos la imagen disponible. <!-- .element: class="fragment"  -->
 - Si no la tiene intenta descargarla de Docker Hub. <!-- .element: class="fragment"  -->
 - Una vez descargada crea un contenedor y lo ejecuta. <!-- .element: class="fragment"  -->
