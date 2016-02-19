@@ -42,5 +42,13 @@
     [
         "interactuando-con-los-contenedores.md",
         "interactuando-con-los-contenedores-2.md"
-    ]
+    ],
+    [
+        "archivos-en-los-contenedores.md",
+        "archivos-en-los-contenedores-2.md",
+        "archivos-en-los-contenedores-3.md"
+    ],
+    "docker-export-import.md",
+    "seguir-leyendo.md",
+    "fin.md"
 ]
